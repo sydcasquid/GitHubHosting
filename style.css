@@ -1,0 +1,61 @@
+.pages { 
+    text-align: center;
+    margin-left: 30%;
+}
+
+.pages ul { 
+    list-style-type: none;
+    column-count: 2;
+}
+
+.pages ul li { 
+    display: inline;
+    padding: 50px;
+}
+
+.homepage { 
+    text-align: center;
+}
+
+#header { 
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+p {
+    text-align: center;
+    width:30%;
+    align-content: center;
+    margin-left: 35%;
+    margin-top: 30px;
+    font-size: large;
+}
+
+.boldPara {
+    font-weight: bold;
+}
+.imageBox { 
+    background-color: pink;
+    border-radius: 5px;
+    width:403.3656px; 
+    height:475.2396px;
+    align-content: center;
+    margin-left:37%;
+}
+
+.image { 
+    width: 90%; 
+    height: 90%;
+    border-radius: 10px;
+    /* margin-left: %; */
+    
+}
+
+.list { 
+    align-content: center;
+}
+
+.aboutList { 
+    margin-left: 35%;
+}
